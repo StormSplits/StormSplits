@@ -29,11 +29,11 @@
 ### :man_technologist: About Me :
 
 I am a Web Developer <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="30"> and UI/UX Designer <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"> from India.
-- :telescope: I’m studing as a CSE Bachelor and learning about frontend, backend and UI/UX for building web applications.
+- :telescope: I’m studying as a CSE Bachelor and learning about frontend, backend and UI/UX for building web applications.
 
 - :seedling: Exploring Creative Fields like Graphics Designing, Video Editing and Photo Manipulation.
 
-- :zap: In my free time, I do UI/UX desinging, Video Editing and Photo Manipulation.
+- :zap: In my free time, I do UI/UX designing, Video Editing and Photo Manipulation.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-singhania-610755219/)
 <hr>
