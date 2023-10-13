@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KTCsHtu8pEZ32/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/CkzASXWphfkQ5CF6ny/giphy.gif" width="400"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shubham-singhania-610755219/">
